@@ -76,7 +76,7 @@ pbjs.setConfig({
 
 Improve Digital Extend mode provides publishers with access to additional demand from other SSPs. Please contact your Account Manager.
 The Extend mode can be enabled:
-* per ad unit via the [extend bid param](#improvedigital-params)
+* per ad unit via the `extend` [bid param](#improvedigital-params)
 * for all ad units via `setConfig()`:
 
 ```
