@@ -70,13 +70,13 @@ pbjs.setConfig({
 });
 ```
 
-<a name="improvedigital-renderer"></a>
+<a name="improvedigital-extend"></a>
 
 #### Extend Mode
 
 Improve Digital Extend mode provides publishers with access to additional demand from other SSPs. Please contact your Account Manager.
-The Extend mode can be enabled in 2 ways:
-* per ad unit via `extend` [Bid param](#improvedigital-params)
+The Extend mode can be enabled:
+* per ad unit via the [extend bid param](#improvedigital-params)
 * for all ad units via `setConfig()`:
 
 ```
